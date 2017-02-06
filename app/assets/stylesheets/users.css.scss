@@ -1,3 +1,9 @@
+/* Users show page styles */
+.user-show-avatar {
+    width: 128px;
+    height: 128px;
+}
+
 .job-title-icon {
     display: inline-block;
     width: 30px;
@@ -7,14 +13,6 @@
     background-color: #2099E6;
     color: white;
     text-align: center;
-}
-.profile-avatar {
-    -webkit-box-shadow: 8px 6px 13px 0px rgba(69, 94, 76, 0.75);
-    -moz-box-shadow: 8px 6px 13px 0px rgba(69, 94, 76, 0.75);
-    box-shadow: 8px 6px 13px 0px rgba(69, 94, 76, 0.75);
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%; 
 }
 
 .well.profile-block {
@@ -33,4 +31,14 @@
 .well.contact-info {
     background-color: #2099E6;
     border-color: #2e6da4;
+}
+
+/* Users index page styles */
+.user-index-avatar {
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+.well.color-bg {
+    background-color: #DAD693;
 }
