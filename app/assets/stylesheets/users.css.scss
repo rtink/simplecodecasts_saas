@@ -8,14 +8,14 @@
     color: white;
     text-align: center;
 }
-// .profile-avatar {
-//     -webkit-box-shadow: 8px 6px 13px 0px rgba(69, 94, 76, 0.75);
-//     -moz-box-shadow: 8px 6px 13px 0px rgba(69, 94, 76, 0.75);
-//     box-shadow: 8px 6px 13px 0px rgba(69, 94, 76, 0.75);
-//   -webkit-border-radius: 50%;
-//     -moz-border-radius: 50%;
-//     border-radius: 50%; 
-// }
+.profile-avatar {
+    -webkit-box-shadow: 8px 6px 13px 0px rgba(69, 94, 76, 0.75);
+    -moz-box-shadow: 8px 6px 13px 0px rgba(69, 94, 76, 0.75);
+    box-shadow: 8px 6px 13px 0px rgba(69, 94, 76, 0.75);
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%; 
+}
 
 .well.profile-block {
     color: #321E06;
